@@ -1,0 +1,42 @@
+Sistema de Pousada
+Visão
+
+1.	Introdução
+O projeto cria uma solução para a pousada X que trabalha com pequenos apartamentos na praia de Tramandaí.
+ A administradora faz reservas e locação desses apartamentos sem a utilização de sistemas automatizados, o registro é feito através da escrita de dados em livros de registros. 
+Este documento tem por finalidade ter a visão da dificuldade em fazer o gerenciamento de reservas de quartos na pousada, trazendo através de coleta de dados e análise estruturada uma solução para atender essa necessidade. 
+
+1.1	Enunciado do Problema
+
+O problema de
+  Não conseguir identificar a disponibilidade de quartos para realizar as reservas diante dos registros
+
+Afeta
+  O administrador
+
+Cujo impacto é
+  Deixar de reservar quartos quando há disponibilidade
+
+Uma solução seria
+  A automatização do registro das reservas através de um sistema.
+
+1.2	Declaração de Posição do Produto
+
+Para	
+  Administrador de pousadas
+
+Que	
+  Precisa identificar a disponibilidade de quartos diante da complexidade dos registros de reservas e locações.
+
+O (Sistema de Pousada)	
+  É um gerenciador de reservas de quartos
+
+Que	
+  Faz o gerenciamento de reservas de quartos em uma pousada
+  
+Diferente	
+  Do registro manual de aluguéis
+
+O nosso produto	
+  Automatiza esses processos e mostra, através de registros, os quartos disponíveis.
+
